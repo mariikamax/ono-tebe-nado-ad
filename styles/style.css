@@ -9,7 +9,7 @@ a {
   display: grid;
   grid-template-columns: 1fr 148px 1fr;
   align-items: center;
-  padding: 92px 50px 96px;
+  padding: 92px 50px 92px;
 }
 
 .header__menu {
@@ -83,7 +83,7 @@ a {
   flex-direction: column;
   justify-content: space-between;
   width: 100%;
-  min-height: 757px;
+  min-height: 759px;
   padding: 165px 50px 50px;
   color: #fff;
   background-image: url("../images/cover.jpg");
@@ -160,7 +160,7 @@ a {
 /* Лоты */
 
 .lots {
-  margin: 180px 24px 0;
+  margin: 177px 24px 0;
 }
 
 .lots__heading {
@@ -248,7 +248,7 @@ a {
   display: grid;
   grid-template-columns: 334px 1fr;
   column-gap: 25px;
-  margin: 180px 24px;
+  margin: 184px 24px;
 }
 
 .about__column_logo {
@@ -272,11 +272,11 @@ a {
 }
 
 .about__column_text {
-  padding-top: 100px;
+  padding-top: 85px;
 }
 
 .about__title {
-  margin-bottom: 100px;
+  margin-bottom: 105px;
   font-size: 40px;
   line-height: 1.2;
   text-transform: uppercase;
